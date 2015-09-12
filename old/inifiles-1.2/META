@@ -1,0 +1,4 @@
+requires="pcre unix"
+version="1.2"
+archive(byte)="inifiles.cma"
+archive(native)="inifiles.cmxa"
